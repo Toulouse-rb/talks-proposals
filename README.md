@@ -11,9 +11,22 @@ Le sujet n'a pas à être technique ni concerner directement Ruby mais c'est pr�
 
 ## Proposer un sujet
 
-1. Forker ce dépôt, dupliquer le sujet d'exemple et remplacer le contenu par le votre.
-2. Pousser votre fork dans votre compte github et faites un PullRequest.
-3. Lors de la préparation du Meetup qui suit les membres de toulouse.rb pourront choisir le sujet qui les intéressent.
+### Creer une issue
+
+```markdown
+# Titre
+
+* Prénom Nom
+* email@example.com
+* durée souhaitée : 5 min / 10 min
+* langue : français / anglais
+
+Descriptif de la conf éclair proposée.
+```
+
+### Suivre et participer à la discussion
+
+Les membres de Toulouse.rb vont commenter et voter pour votre sujet. Il sera accepté ou refusé et un craineau sera choisi.
 
 ## Détails
 
