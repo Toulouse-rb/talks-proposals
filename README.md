@@ -13,6 +13,8 @@ Le sujet n'a pas à être technique ni concerner directement Ruby mais c'est pr�
 
 ### Creer une issue
 
+Creez une issue en utilisant le modele ci dessous :
+
 ```markdown
 # Titre
 
